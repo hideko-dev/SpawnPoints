@@ -1,0 +1,9 @@
+name: SpawnPoints
+version: '${project.version}'
+main: dev.hideko.spawnpoints.SpawnPoints
+
+commands:
+  spawnset:
+    description: hello
+  spawntp:
+    description: hello

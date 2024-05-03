@@ -1,0 +1,9 @@
+name: SpawnPoints
+version: '1.0'
+main: dev.hideko.spawnpoints.SpawnPoints
+
+commands:
+  spawnset:
+    description: hello
+  spawntp:
+    description: hello
